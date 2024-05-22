@@ -1,19 +1,5 @@
-
- {  "jobs": [
-      {
-      "id": "1",
-      "title": "Senior React Developer",
-      "type": "Full-Time",
-      "description": "We are seeking a talented Front-End Developer to join our team in Boston, MA. The ideal candidate will have strong skills in HTML, CSS, and JavaScript, with experience working with modern JavaScript frameworks such as React or Angular.",
-      "location": "Boston, MA",
-      "salary": "$70K - $80K",
-      "company": {
-        "name": "NewTek Solutions",
-        "description": "NewTek Solutions is a leading technology company specializing in web development and digital solutions. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
-        "contactEmail": "contact@teksolutions.com",
-        "contactPhone": "555-555-5555"
-      }
-    },
+{
+  "jobs": [
     {
       "id": "2",
       "title": "Front-End Engineer (React & Redux)",
@@ -72,10 +58,10 @@
     },
     {
       "id": "6",
-      "title": "React Native Developer",
+      "title": "React dev ",
       "type": "Full-Time",
-      "description": "Join our team as a Front-End Developer in beautiful Portland, OR. We are looking for a skilled and enthusiastic individual to help us create innovative web solutions. Competitive salary and great benefits package available.",
       "location": "Portland, OR",
+      "description": "Join our team as a Front-End Developer in beautiful Portland, OR. We are looking for a skilled and enthusiastic individual to help us create innovative web solutions. Competitive salary and great benefits package available.",
       "salary": "$100K - $110K",
       "company": {
         "name": "Port Solutions INC",
@@ -84,4 +70,5 @@
         "contactPhone": "555-555-5555"
       }
     }
-  ]}
+  ]
+}
